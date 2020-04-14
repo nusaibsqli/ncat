@@ -3,7 +3,7 @@ This Netcat Backdoor to control victims Pc
 
 Create by ghosthub (b@b@y)
 
-usage: ncat.py [-h] [-s] [-u UPLOAD UPLOAD] {c,s} target
+usage: nCat.py [-h] [-s] [-u UPLOAD UPLOAD] {c,s} target
 
 Python netcat. Drop files, download files, execute, and sniff.
 
